@@ -242,30 +242,6 @@
             ]
         },
         {
-            "source": "baidu",
-            "title": "百度热点",
-            "subtitle": [
-                "指数"
-            ],
-            "icon": "fas fa-paw",
-            "iconColor": "text-blue-600",
-            "updateTime": "1764050363",
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "习近平同特朗普通电话",
-                    "url": "#",
-                    "hot": "780.9万"
-                },
-                {
-                    "rank": 2,
-                    "title": "特朗普要求高市早苗通电话",
-                    "url": "#",
-                    "hot": "771.3万"
-                }
-            ]
-        },
-        {
             "source": "bilibili",
             "title": "哔哩哔哩",
             "subtitle": [
@@ -877,6 +853,81 @@
                     "url": "https://www.douyin.com/search/南海部分海域将进行实弹射击",
                     "hot": 9140540,
                     "type": "热榜"
+                }
+            ]
+        },
+        {
+            "source": "baidu",
+            "title": "百度",
+            "subtitle": [
+                "热榜",
+                "贴吧"
+            ],
+            "category": "资讯",
+            "icon": "fas fa-paw",
+            "iconColor": "text-blue-600",
+            "rank": 3,
+            "updateTime": 1764431490040,
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "烟鬼逼疯新生,换寝无望跳河轻生",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347590&topic_name=%E7%83%9F%E9%AC%BC%E9%80%BC%E7%96%AF%E6%96%B0%E7%94%9F%2C%E6%8D%A2%E5%AF%9D%E6%97%A0%E6%9C%9B%E8%B7%B3%E6%B2%B3%E8%BD%BB%E7%94%9F",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 2,
+                    "title": "送外卖看风景?央媒短片引群嘲",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347593&topic_name=%E9%80%81%E5%A4%96%E5%8D%96%E7%9C%8B%E9%A3%8E%E6%99%AF%3F%E5%A4%AE%E5%AA%92%E7%9F%AD%E7%89%87%E5%BC%95%E7%BE%A4%E5%98%B2",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 3,
+                    "title": "吸毒记录封存,阴谋论者带节奏?",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347588&topic_name=%E5%90%B8%E6%AF%92%E8%AE%B0%E5%BD%95%E5%B0%81%E5%AD%98%2C%E9%98%B4%E8%B0%8B%E8%AE%BA%E8%80%85%E5%B8%A6%E8%8A%82%E5%A5%8F%3F",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 4,
+                    "title": "实锤竹棚助长火势,洗地何时休?",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347589&topic_name=%E5%AE%9E%E9%94%A4%E7%AB%B9%E6%A3%9A%E5%8A%A9%E9%95%BF%E7%81%AB%E5%8A%BF%2C%E6%B4%97%E5%9C%B0%E4%BD%95%E6%97%B6%E4%BC%91%3F",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 5,
+                    "title": "石墩子艺术!央美费列罗墩子火了",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347592&topic_name=%E7%9F%B3%E5%A2%A9%E5%AD%90%E8%89%BA%E6%9C%AF%21%E5%A4%AE%E7%BE%8E%E8%B4%B9%E5%88%97%E7%BD%97%E5%A2%A9%E5%AD%90%E7%81%AB%E4%BA%86",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 6,
+                    "title": "在编妻死磕创业,丈夫崩溃怕败家",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347585&topic_name=%E5%9C%A8%E7%BC%96%E5%A6%BB%E6%AD%BB%E7%A3%95%E5%88%9B%E4%B8%9A%2C%E4%B8%88%E5%A4%AB%E5%B4%A9%E6%BA%83%E6%80%95%E8%B4%A5%E5%AE%B6",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 7,
+                    "title": "IG新瓜!除Wei外全员摆烂休战",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347591&topic_name=IG%E6%96%B0%E7%93%9C%21%E9%99%A4Wei%E5%A4%96%E5%85%A8%E5%91%98%E6%91%86%E7%83%82%E4%BC%91%E6%88%98",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 8,
+                    "title": "限日令发威,大批演出被叫停",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347583&topic_name=%E9%99%90%E6%97%A5%E4%BB%A4%E5%8F%91%E5%A8%81%2C%E5%A4%A7%E6%89%B9%E6%BC%94%E5%87%BA%E8%A2%AB%E5%8F%AB%E5%81%9C",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 9,
+                    "title": "碰撞轮毂飞!竟是小米保命绝招",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347587&topic_name=%E7%A2%B0%E6%92%9E%E8%BD%AE%E6%AF%82%E9%A3%9E%21%E7%AB%9F%E6%98%AF%E5%B0%8F%E7%B1%B3%E4%BF%9D%E5%91%BD%E7%BB%9D%E6%8B%9B",
+                    "type": "贴吧"
+                },
+                {
+                    "rank": 10,
+                    "title": "竹筒饭防火论,智商盆地新发现",
+                    "url": "http://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347574&topic_name=%E7%AB%B9%E7%AD%92%E9%A5%AD%E9%98%B2%E7%81%AB%E8%AE%BA%2C%E6%99%BA%E5%95%86%E7%9B%86%E5%9C%B0%E6%96%B0%E5%8F%91%E7%8E%B0",
+                    "type": "贴吧"
                 }
             ]
         }
