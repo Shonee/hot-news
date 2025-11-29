@@ -1,2 +1,1 @@
-# hot-news
-hot-news
+hello hot-news!
