@@ -359,90 +359,6 @@
             ]
         },
         {
-            "source": "douyin",
-            "title": "抖音",
-            "subtitle": [
-                "热榜"
-            ],
-            "category": "资讯",
-            "icon": "fab fa-tiktok",
-            "iconColor": "text-black-500",
-            "rank": 1,
-            "updateTime": 1764432040237,
-            "items": [
-                {
-                    "rank": 1,
-                    "title": "苏翊鸣大跳台世界杯夺金",
-                    "url": "https://www.douyin.com/search/苏翊鸣大跳台世界杯夺金",
-                    "hot": 11803619,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 2,
-                    "title": "让你打球不是让你犁地",
-                    "url": "https://www.douyin.com/search/让你打球不是让你犁地",
-                    "hot": 11623635,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 3,
-                    "title": "万亿冰雪经济“上新”",
-                    "url": "https://www.douyin.com/search/万亿冰雪经济“上新”",
-                    "hot": 11357839,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 4,
-                    "title": "偏差的每一下都像在哽咽",
-                    "url": "https://www.douyin.com/search/偏差的每一下都像在哽咽",
-                    "hot": 11347086,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 5,
-                    "title": "藏在纸币里的中式美学",
-                    "url": "https://www.douyin.com/search/藏在纸币里的中式美学",
-                    "hot": 10555592,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 6,
-                    "title": "雪场显眼包的上板OOTD",
-                    "url": "https://www.douyin.com/search/雪场显眼包的上板OOTD",
-                    "hot": 10425189,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 7,
-                    "title": "BLG官宣Elk离队",
-                    "url": "https://www.douyin.com/search/BLG官宣Elk离队",
-                    "hot": 9247988,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 8,
-                    "title": "邓紫棋南宁演唱会",
-                    "url": "https://www.douyin.com/search/邓紫棋南宁演唱会",
-                    "hot": 9187708,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 9,
-                    "title": "南海部分海域将进行实弹射击",
-                    "url": "https://www.douyin.com/search/南海部分海域将进行实弹射击",
-                    "hot": 9149677,
-                    "type": "热榜"
-                },
-                {
-                    "rank": 10,
-                    "title": "地铁百万撤离挑战赛",
-                    "url": "https://www.douyin.com/search/地铁百万撤离挑战赛",
-                    "hot": 9136539,
-                    "type": "热榜"
-                }
-            ]
-        },
-        {
             "source": "baidu",
             "title": "百度",
             "subtitle": [
@@ -1108,6 +1024,90 @@
                     "source": "哔哩哔哩",
                     "type": "排行榜",
                     "timestamp": 1764432305131
+                }
+            ]
+        },
+        {
+            "source": "douyin",
+            "title": "抖音",
+            "subtitle": [
+                "热榜"
+            ],
+            "category": "资讯",
+            "icon": "fab fa-tiktok",
+            "iconColor": "text-black-500",
+            "rank": 1,
+            "updateTime": 1764432433320,
+            "items": [
+                {
+                    "rank": 1,
+                    "title": "苏翊鸣大跳台世界杯夺金",
+                    "url": "https://www.douyin.com/search/苏翊鸣大跳台世界杯夺金",
+                    "hot": 11801467,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 2,
+                    "title": "让你打球不是让你犁地",
+                    "url": "https://www.douyin.com/search/让你打球不是让你犁地",
+                    "hot": 11642316,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 3,
+                    "title": "万亿冰雪经济“上新”",
+                    "url": "https://www.douyin.com/search/万亿冰雪经济“上新”",
+                    "hot": 11351345,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 4,
+                    "title": "偏差的每一下都像在哽咽",
+                    "url": "https://www.douyin.com/search/偏差的每一下都像在哽咽",
+                    "hot": 11348193,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 5,
+                    "title": "藏在纸币里的中式美学",
+                    "url": "https://www.douyin.com/search/藏在纸币里的中式美学",
+                    "hot": 10556677,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 6,
+                    "title": "BLG官宣Elk离队",
+                    "url": "https://www.douyin.com/search/BLG官宣Elk离队",
+                    "hot": 10425017,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 7,
+                    "title": "雪场显眼包的上板OOTD",
+                    "url": "https://www.douyin.com/search/雪场显眼包的上板OOTD",
+                    "hot": 9244821,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 8,
+                    "title": "邓紫棋南宁演唱会",
+                    "url": "https://www.douyin.com/search/邓紫棋南宁演唱会",
+                    "hot": 9187484,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 9,
+                    "title": "地铁百万撤离挑战赛",
+                    "url": "https://www.douyin.com/search/地铁百万撤离挑战赛",
+                    "hot": 9148975,
+                    "type": "热榜"
+                },
+                {
+                    "rank": 10,
+                    "title": "斯里兰卡进入公共紧急状态",
+                    "url": "https://www.douyin.com/search/斯里兰卡进入公共紧急状态",
+                    "hot": 9136718,
+                    "type": "热榜"
                 }
             ]
         }
